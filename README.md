@@ -39,5 +39,5 @@ In order to run the python code in VScode, you need to do the following,
 - text in red
 + text in green
 ! text in orange
-# text in gray
 @@ text in purple (and bold)@@
+$\textcolor{green}{\text{Hello}}$ World
