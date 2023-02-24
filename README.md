@@ -33,6 +33,9 @@ $\textcolor{green}{\text{(Note: activate the env "test2")}}$.
 $\textcolor{gray}{\text{\tt pip install matplotlib}}$
 $\textcolor{green}{\text{(Note: using pip to install all required packages when you run the .py file in VScode)}}$.
 
+(4)
+Run the Matlab/Simulink and VScode on the same pc, and run Matlab/Simulink the first, and VScode the second.
+
 
 # Example Results
 (1) demo picture.
