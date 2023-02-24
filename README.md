@@ -19,7 +19,7 @@ Visual Studio Code (VScode), for running python code;
 
 
 # Instruction
-In order to run the python code in VScode, you need to do the following,
+In order to run the python code in VScode, you need first to do the following,
 
 (1)
 $\textcolor{gray}{\text{\tt conda create -n test2 python=3.7}}$
