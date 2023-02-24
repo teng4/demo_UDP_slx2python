@@ -38,7 +38,7 @@ Run the Matlab/Simulink and VScode on the same pc, and run Matlab/Simulink the f
 
 
 # Example Results
-(1) Demo screenshot.
+(1) Demo live plot result screenshot.
 
 ![teng4_demo2_example_screenshot_20230223_171019](https://github.com/teng4/demo_UDP_slx2python/blob/main/teng4_demo2_example_screenshot_20230223_171019.png)
 
