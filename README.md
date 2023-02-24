@@ -31,7 +31,7 @@ $\textcolor{green}{\text{(Note: activate the env "test2")}}$.
 
 (3)
 $\textcolor{gray}{\text{\tt pip install matplotlib}}$
-$\textcolor{green}{\text{(Note: using pip to install whatever packages are required when you try to run the python code in VScode)}}$.
+$\textcolor{green}{\text{(Note: using pip to install all required packages when you run the .py file in VScode)}}$.
 
 
 # Example Results
