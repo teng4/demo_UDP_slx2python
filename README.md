@@ -11,7 +11,7 @@ This demo is to (1) send UDP data from Matlab/Simulink and (2) receive the UDP d
 
 (4) python .py code for UDP receiver (receiving a 4-by-1 double array).
 
-(5) Note that the 4-by-1 double array is \[time, sine1, sine2, sin3\].
+(5) Note that the 4-by-1 double array is \[time, sine1, sine2, sine3\].
 
 
 # Platform
