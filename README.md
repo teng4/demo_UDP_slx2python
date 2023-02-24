@@ -21,14 +21,16 @@ Visual Studio Code (VScode), for running python code;
 # Instruction
 In order to run the python code in VScode, you need to do the following,
 
-(1) $\tt conda create -n test2 python=3.7 $
-$\textcolor{gray}{\text{\tt conda create -n test2 python=3.7}}$.
+(1)
+$\textcolor{gray}{\text{\tt conda create -n test2 python=3.7}}$
 $\textcolor{green}{\text{ (Note: create a new env named "test2" (or you name it))}}$.
 
-(2) $\tt conda activate test2 $
+(2)
+$\textcolor{gray}{\text{\tt conda activate test2}}$
 $\textcolor{green}{\text{(Note: activate the env "test2")}}$.
 
-(3) $\tt pip install matplotlib$  
+(3)
+$\textcolor{gray}{\text{\tt pip install matplotlib}}$
 $\textcolor{green}{\text{(Note: using pip to install whatever packages are required when you try to run the python code in VScode)}}$.
 
 
