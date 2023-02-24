@@ -22,7 +22,8 @@ Visual Studio Code (VScode), for running python code;
 In order to run the python code in VScode, you need to do the following,
 
 (1) $\tt conda create -n test2 python=3.7 $
-$\textcolor{green}{\text{\tt (Note: create a new env named "test2" (or you name it))}}$.
+$\textcolor{gray}{\text{\tt conda create -n test2 python=3.7}}$.
+$\textcolor{green}{\text{ (Note: create a new env named "test2" (or you name it))}}$.
 
 (2) $\tt conda activate test2 $
 $\textcolor{green}{\text{(Note: activate the env "test2")}}$.
