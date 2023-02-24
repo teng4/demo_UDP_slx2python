@@ -1,5 +1,5 @@
 # demo_UDP_slx2python
-This demo is to send UDP data from Matlab/Simulink, and receive the data by python code.
+This demo is to (1) send UDP data from Matlab/Simulink and (2) receive the data by python code and do live data plot.
 
 
 # Description
@@ -20,11 +20,11 @@ Visual Studio Code (VScode) for running python code;
 # Instruction
 In order to run the python code in VScode, you need to do the following,
 
-(1) conda create -n test2 python=3.7 #create a new env named "test2" (or whatever name you want).
+(1) conda create -n test2 python=3.7  #create a new env named "test2" (or whatever name you want).
 
-(2) conda activate test #activate the env "test2".
+(2) conda activate test  #activate the env "test2".
 
-(3) conda matplotlib #using pip to install whatever packages are required when you try to run the python code in VScode.
+(3) pip install matplotlib  #using pip to install whatever packages are required when you try to run the python code in VScode.
 
 
 # Example Results
