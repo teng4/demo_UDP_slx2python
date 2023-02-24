@@ -7,7 +7,7 @@ This demo is to (1) send UDP data from Matlab/Simulink and (2) receive the UDP d
 
 (2) Simulink .slx model for UDP sender.
 
-(3) Sinulink .slx model for UDP sender (in DESKTOP REAL-TIME mode).
+(3) Simulink .slx model for UDP sender (in DESKTOP REAL-TIME mode).
 
 (4) python .py code for UDP receiver.
 
