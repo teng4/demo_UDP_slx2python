@@ -14,7 +14,8 @@ This demo is to (1) send UDP data from Matlab/Simulink and (2) receive the UDP d
 
 # Platform
 Matlab/SIMULINK: R2020a 64bit;
-Visual Studio Code (VScode) for running python code;
+
+Visual Studio Code (VScode), for running python code;
 
 
 # Instruction
