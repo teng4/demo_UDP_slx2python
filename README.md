@@ -32,4 +32,12 @@ In order to run the python code in VScode, you need to do the following,
 
 ![teng4_demo2_example_screenshot_20230223_171019](https://github.com/teng4/demo_UDP_slx2python/blob/main/teng4_demo2_example_screenshot_20230223_171019.png)
 
+
 # (-The End-)
+
+
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
