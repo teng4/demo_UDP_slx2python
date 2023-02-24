@@ -3,13 +3,15 @@ This demo is to (1) send UDP data from Matlab/Simulink and (2) receive the UDP d
 
 
 # Description
-(1) Matlab .m code for UDP sender.
+(1) Matlab .m code for UDP sender (sending a 4-by-1 double array).
 
-(2) Simulink .slx model for UDP sender.
+(2) Simulink .slx model for UDP sender (sending a 4-by-1 double array).
 
-(3) Simulink .slx model for UDP sender (in DESKTOP REAL-TIME mode).
+(3) Simulink .slx model for UDP sender (in DESKTOP REAL-TIME mode) (sending a 4-by-1 double array).
 
-(4) python .py code for UDP receiver.
+(4) python .py code for UDP receiver (receiving a 4-by-1 double array).
+
+(5) Note that the 4-by-1 double array is \[time, sine1, sine2, sin3\].
 
 
 # Platform
