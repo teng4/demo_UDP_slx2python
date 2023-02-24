@@ -22,7 +22,7 @@ In order to run the python code in VScode, you need to do the following,
 
 (1) conda create -n test2 python=3.7  $\textcolor{green}{\text{(Note: create a new env named "test2" (or you name it))}}$.
 
-(2) conda activate test  $\textcolor{green}{\text{(Note: activate the env "test2")}}$.
+(2) conda activate test2  $\textcolor{green}{\text{(Note: activate the env "test2")}}$.
 
 (3) pip install matplotlib  $\textcolor{green}{\text{(Note: using pip to install whatever packages are required when you try to run the python code in VScode)}}$.
 
