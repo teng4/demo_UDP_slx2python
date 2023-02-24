@@ -1,5 +1,5 @@
 # demo_UDP_slx2python
-This demo is to (1) send UDP data from Matlab/Simulink and (2) receive the data by python code and do live data plot.
+This demo is to (1) send UDP data from Matlab/Simulink and (2) receive the UDP data by python code and do live data plot.
 
 
 # Description
